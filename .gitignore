@@ -1,0 +1,34 @@
+# dependencies
+node_modules
+
+# testing
+/coverage
+
+# production
+/dist
+/public
+/build
+
+# misc
+.DS_Store
+.env
+.env.development
+.env.local
+.cache/
+.idea/
+.vscode/
+/tmp
+.contentful.json
+
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*yalc*
+
+# Netlify lambda
+/lambda
+/functions
+
+# Docz
+/.docz
